@@ -10,23 +10,15 @@
 
 </br>
 
-
-
-
-
-
-
-
-
-
 The IP Range refers to the Range of IP addresses used by a particular Network or organization. It is a group of IP addresses that share a common prefix address and are defined by the size of the netmask.
 
 This program shows how to calculate such Ranges at the click of a button. It's important to note that the starting IP address cannot be greater than the ending IP address. This applies to both the individual range and the entire IP address.
 
+</br>
 
 ![Generate IP Range](https://github.com/user-attachments/assets/e1eb89ab-bd83-45c4-be37-d496304e8044)
 
-
+</br>
 
 With a standard subnet mask, additional IP addresses must be assigned within the range up to 192.168.10.254. Therefore, the larger the IP range, the more devices can be used within a network.
 
